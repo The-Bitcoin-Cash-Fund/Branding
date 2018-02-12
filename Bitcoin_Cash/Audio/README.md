@@ -57,7 +57,8 @@ The second part of the sound is a synthetic two tone sound which signifies recei
 ## Specs - Payment Sent Sound
 - Audio length - 2 seconds
 - WAV File size - 217KB
-- Specs - Payment Received
+  
+## Specs - Payment Received Sound
 - Audio length - 1 second
 - WAV File size - 158KB
 
