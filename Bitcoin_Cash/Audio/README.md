@@ -63,18 +63,18 @@ The second part of the sound is a synthetic two tone sound which signifies recei
 - WAV File size - 158KB
 
 ## License Features
-(Full contract as separate PDF)
+*(Full contract as separate PDF)*
 
 AGREEMENT is entered into as of December 14, 2017 (the “ Agreement ”) by and
 between BCF (“ Agency ”), acting on behalf of Bitcoin Cash, and marketers,
 developers and products utilizing Bitcoin Cash (BCH) (“ Licensee ”), and Antfood,
 LLC (“ Licensor ”).
 
-Composition Title: BCH_OB2  
-Product: Bitcoin Cash  
-Composer: Wilson Brown Spot  
-Title: BCH Sonic Logo, Send, Receive  
-Term: In Perpetuity for Bitcoin Cash  
-Renewal Fee: n/a  
-Territory: Worldwide & throughout the universe  
-Media Use: Digital marketing & promotion, Apps, PoS, for Bitcoin Cash  
+**Composition Title:** BCH_OB2  
+**Product:** Bitcoin Cash  
+**Composer:** Wilson Brown Spot  
+**Title:** BCH Sonic Logo, Send, Receive  
+**Term:** In Perpetuity for Bitcoin Cash  
+**Renewal Fee:** n/a  
+**Territory:** Worldwide & throughout the universe  
+**Media Use:** Digital marketing & promotion, Apps, PoS, for Bitcoin Cash  
