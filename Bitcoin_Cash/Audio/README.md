@@ -59,8 +59,8 @@ The second part of the sound is a synthetic two tone sound which signifies recei
 - WAV File size - 217KB
   
 ## Specs - Payment Received Sound
-- Audio length - 1 second
-- WAV File size - 158KB
+**Audio length:** 1 second
+**WAV File size:** 158KB
 
 ## License Features
 *(Full contract as separate PDF)*
